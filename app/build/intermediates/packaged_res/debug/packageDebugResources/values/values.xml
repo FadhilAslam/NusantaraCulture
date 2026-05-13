@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Tentang</string>
+    <string name="about_app_description">Nusantara Culture adalah aplikasi modern yang membantu Anda menjelajahi kekayaan budaya Indonesia. Dari tarian tradisional, makanan khas, rumah adat, hingga pakaian adat—semua ada di sini!</string>
+    <string name="about_app_title">Tentang Aplikasi</string>
+    <string name="about_section">Tentang</string>
+    <string name="app_name">Nusantara Culture</string>
+    <string name="back">Kembali</string>
+    <string name="category_makanan">Makanan Khas</string>
+    <string name="category_pakaian">Pakaian Adat</string>
+    <string name="category_rumah">Rumah Adat</string>
+    <string name="category_tarian">Tarian Tradisional</string>
+    <string name="copyright">© 2026 Nusantara Culture</string>
+    <string name="culture_category">Kategori Budaya</string>
+    <string name="discover_subtitle">Temukan keindahan budaya Indonesia</string>
+    <string name="error_category_empty">Pilih kategori budaya</string>
+    <string name="error_name_empty">Nama tidak boleh kosong</string>
+    <string name="explore_culture">Jelajahi Budaya</string>
+    <string name="explore_now">Jelajahi Sekarang</string>
+    <string name="key_features">Fitur Utama</string>
+    <string name="made_with_love">Dibuat dengan ❤️ untuk Indonesia</string>
+    <string name="menu">Menu</string>
+    <string name="read_more">Baca Selengkapnya</string>
+    <string name="region_of_origin">Asal Daerah</string>
+    <string name="reset_data">Reset Data</string>
+    <string name="search_culture">Cari Budaya</string>
+    <string name="select_category">Pilih Kategori</string>
+    <string name="share">Bagikan</string>
+    <string name="technology">Teknologi</string>
+    <string name="toggle_language">Ganti Bahasa</string>
+    <string name="view_detail">Lihat Detail</string>
+    <string name="your_name">Nama Kamu</string>
+    <style name="Theme.NusantaraCulture" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

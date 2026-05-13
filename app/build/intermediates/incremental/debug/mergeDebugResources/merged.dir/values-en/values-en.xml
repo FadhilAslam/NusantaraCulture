@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="about_app_description">Nusantara Culture is a modern app that helps you explore the richness of Indonesian culture. From traditional dances, local foods, traditional houses, to traditional clothing—it\'s all here!</string>
+    <string name="about_app_title">About the App</string>
+    <string name="about_section">About</string>
+    <string name="app_name">Nusantara Culture</string>
+    <string name="back">Back</string>
+    <string name="category_makanan">Traditional Food</string>
+    <string name="category_pakaian">Traditional Clothing</string>
+    <string name="category_rumah">Traditional House</string>
+    <string name="category_tarian">Traditional Dance</string>
+    <string name="copyright">© 2026 Nusantara Culture</string>
+    <string name="culture_category">Culture Category</string>
+    <string name="discover_subtitle">Discover the beauty of Indonesian culture</string>
+    <string name="error_category_empty">Please select a culture category</string>
+    <string name="error_name_empty">Name cannot be empty</string>
+    <string name="explore_culture">Explore Culture</string>
+    <string name="explore_now">Explore Now</string>
+    <string name="key_features">Key Features</string>
+    <string name="made_with_love">Made with ❤️ for Indonesia</string>
+    <string name="menu">Menu</string>
+    <string name="read_more">Read More</string>
+    <string name="region_of_origin">Region of Origin</string>
+    <string name="reset_data">Reset Data</string>
+    <string name="search_culture">Search Culture</string>
+    <string name="select_category">Select Category</string>
+    <string name="share">Share</string>
+    <string name="technology">Technology</string>
+    <string name="toggle_language">Toggle Language</string>
+    <string name="view_detail">View Detail</string>
+    <string name="your_name">Your Name</string>
+</resources>

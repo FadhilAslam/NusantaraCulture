@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nusantara.culture.app-mergeDebugResources-53:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lenovo\\.gradle\\caches\\9.4.1\\transforms\\c7ebccb6b0c0a994cbb9b765a2c5a81b\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nusantara.culture.app-pngs-52:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_tari_saman.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/tari_saman.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_rumah_tongkonan.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/rumah_tongkonan.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nusantara.culture.app-pngs-52:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_ulos.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/ulos.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_rendang.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/rendang.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_rumah_joglo.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/rumah_joglo.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nusantara.culture.app-pngs-52:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_gudeg.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/gudeg.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nusantara.culture.app-pngs-52:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nusantara.culture.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_tari_kecak.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/tari_kecak.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_batik.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/batik.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_pempek.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/pempek.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_rumah_gadang.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/rumah_gadang.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_tari_pendet.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/tari_pendet.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_pakaian_dayak.jpg.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/pakaian_dayak.jpg"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.nusantara.culture.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nusantara.culture.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.nusantara.culture.app-pngs-52:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.nusantara.culture.app-pngs-52:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.nusantara.culture.app-debug-55:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.nusantara.culture.app-pngs-52:/drawable-ldpi/ic_launcher_foreground.png"
+    }
+]
